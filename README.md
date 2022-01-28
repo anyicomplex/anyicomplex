@@ -10,5 +10,16 @@ int main() {
     return anyi::check_err();
 }
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anyicomplex&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyicomplex&layout=compact&langs_count=10)
+
+<a href="#">
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=anyicomplex&show_icons=true&hide_border=true"
+  />
+</a>
+  <a href="#">
+  <img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyicomplex&layout=compact&langs_count=8&hide_border=true"
+  />
+</a>
