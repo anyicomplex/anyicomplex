@@ -13,13 +13,13 @@ int main() {
 
 <a href="#">
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=anyicomplex&show_icons=true&hide_border=true"
   />
 </a>
   <a href="#">
   <img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyicomplex&layout=compact&langs_count=8&hide_border=true"
   />
 </a>
