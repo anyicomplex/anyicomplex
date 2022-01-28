@@ -10,10 +10,5 @@ int main() {
     return anyi::check_err();
 }
 ```
-
-<a href="#">
-  <img height=224 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyicomplex&layout=compact&langs_count=10" />
-</a>
-<a href="#">
-  <img height=224 src="https://github-readme-stats.vercel.app/api?username=anyicomplex&show_icons=true&theme=radical" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anyicomplex&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyicomplex&layout=compact&langs_count=10)
