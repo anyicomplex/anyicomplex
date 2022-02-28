@@ -1,7 +1,7 @@
 ```c
 #include "anyicomplex.h"
 
-int main(int argc, char** argv) {
+int main(int argc, char **argv) {
     anyi::say("Contact me:\n"
               "Discord label: anyicomplex#8499\n"
               "Email address: anyicomplex@protonmail.com");
