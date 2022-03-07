@@ -6,7 +6,7 @@ int main(int argc, char **argv) {
               "Discord label: anyicomplex#8499\n"
               "Discord channel: https://discord.gg/aMV449WD\n"
               "Email address: anyicomplex@protonmail.com");
-    anyi::say("Favorite programming languages: Java, C/C++, Python.");
+    anyi::say("Favorite programming languages: Java, C/C++, Object Pascal.");
     anyi::say("Date of Birth: 2000-12-08.");
     return anyi::check_err();
 }
