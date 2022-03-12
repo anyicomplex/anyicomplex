@@ -11,7 +11,7 @@ int main(int argc, char **argv) {
     return anyi::check_err();
 }
 
-__COMMENT__(
+__COMMENT__("
 硕鼠硕鼠，无食我黍！\n
 三岁贯汝，莫我肯顾。\n
 逝将去汝，适彼乐土。\n
@@ -24,6 +24,6 @@ __COMMENT__(
 三岁贯汝，莫我肯劳。\n
 逝将去汝，适彼乐郊。\n
 乐郊乐郊，谁之永号？
-)
+")
 
 ```
